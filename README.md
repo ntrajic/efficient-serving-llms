@@ -32,3 +32,9 @@
 
     Enroll today  https://learn.deeplearning.ai/courses/efficiently-serving-llms
 
+      export HUGGINGFACE_TOKEN_KEY=...
+      git clone https://HUGGINGFACE_TOKEN_KEY@huggingface.co/openai-community/gpt2
+
+     
+      
+      git clone https://github.com/openai/gpt-2.git
